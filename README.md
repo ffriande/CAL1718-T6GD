@@ -1,4 +1,12 @@
 ﻿# CAL1718-T6GD
+
+### Project Info
+* **Date:** 2nd Year, 2nd Semester, 2017/2018
+* **Course:** Concepção e Análise de Algoritmos (CAL) | Algorithm Design and Analysis
+* **Course Link:** https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436441
+
+-----------
+
 Concepção e Análise de Algoritmos 2018, first project and second project .
 
 Tema 6: Supermercado ao domicílio
